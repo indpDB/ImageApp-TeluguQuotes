@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/indpDB/UC-ImageApp-TopWallpapers/master/DataBase.json
+https://raw.githubusercontent.com/indpDB/UC-ImageApp-TeluguQuotes/master/DataBase.json
